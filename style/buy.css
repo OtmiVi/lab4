@@ -1,0 +1,28 @@
+.book{
+    width: 1200px;
+    margin: 10px auto;
+    border: 1px solid #a65800;
+    padding: 5px;
+    background-color: #ffa540;
+    border-radius: 5px;
+    box-shadow: 0 0 3px  #a65800;
+}
+.book .book_bescription{
+    border: none;
+    box-shadow: none;
+}
+.book img{
+    float: left;
+    margin-right: 10px;
+}
+.reviewed_book{
+    text-align: center;
+}
+.reviewed_book img{
+    border-radius: 5px;
+    border: 1px solid #a65800;
+    background-color: #ffa540;
+    box-shadow: 0 0 3px  #a65800;
+    height: 100px;
+    width: 100px;
+}
